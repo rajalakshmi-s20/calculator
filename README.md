@@ -1,2 +1,2 @@
 # calculator
-A calculator web application
+A Calculator Web Application
